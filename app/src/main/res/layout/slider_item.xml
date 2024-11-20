@@ -7,6 +7,7 @@
 
     <ImageView
         android:id="@+id/sliderImage"
+        android:src="@drawable/aaaas"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:scaleType="fitXY"/>
