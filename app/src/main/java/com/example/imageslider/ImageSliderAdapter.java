@@ -63,7 +63,7 @@ public class ImageSliderAdapter extends PagerAdapter {
                     });
         } else {
             // Show fallback image if there's no internet
-            imageView.setImageResource(R.drawable.aaaas); // Replace with your fallback image
+            imageView.setImageResource(R.drawable.no); // Replace with your fallback image
         }
 
         container.addView(view);

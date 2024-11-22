@@ -4,7 +4,7 @@
 
     <solid android:color="#CCCCCC" /> <!-- ডটের রঙ (ধূসর) -->
     <size
-        android:width="10dp"
-        android:height="10dp" /> <!-- ডটের আকার -->
-    <corners android:radius="5dp" /> <!-- গোলাকার কোণা -->
+        android:width="8dp"
+        android:height="8dp" /> <!-- ডটের আকার -->
+    <corners android:radius="4dp" /> <!-- গোলাকার কোণা -->
 </shape>

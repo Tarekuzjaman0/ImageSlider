@@ -38,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
         // Initialize views
         viewPager = findViewById(R.id.viewPager);
         dotsLayout = findViewById(R.id.dotsLayout);
+       // imageSources.add("drawable/your_image"); // Add the placeholder image resource
+
+
 
         // Fetch image links from the server
         fetchImageLinks();

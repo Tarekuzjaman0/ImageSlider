@@ -2,9 +2,9 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
 
-    <solid android:color="#FF0000" /> <!-- ডটের রঙ (লাল) -->
+    <solid android:color="#03A9F4" /> <!-- ডটের রঙ (লাল) -->
     <size
-        android:width="10dp"
-        android:height="10dp" /> <!-- ডটের আকার -->
-    <corners android:radius="5dp" /> <!-- গোলাকার কোণা -->
+        android:width="8dp"
+        android:height="8dp" /> <!-- ডটের আকার -->
+    <corners android:radius="4dp" /> <!-- গোলাকার কোণা -->
 </shape>
