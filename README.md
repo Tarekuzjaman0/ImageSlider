@@ -10,16 +10,6 @@
 - Frontend: XML and Java for rendering images in the slider.
 - HTTP Requests: Volley or Retrofit for fetching images and data from the server.
 
-<pre><code class="language-java">
-public class MainActivity extends AppCompatActivity {
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-    }
-}
-</code></pre>
-
 
 ```groovy 
 dependencies {
