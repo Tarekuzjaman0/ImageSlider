@@ -13,6 +13,7 @@
 
 ```groovy 
 dependencies {
-//To integrate this project, include the following dependency in your build.gradle (app-level) file:
+    //To integrate this project, include the following dependency in your build.gradle (app-level) file:
     implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.android.volley:volley:1.2.1'
 }
