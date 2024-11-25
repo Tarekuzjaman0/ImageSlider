@@ -1,5 +1,8 @@
 ## Advance Image Slider Source Code
 
+
+(https://s1fi.whiteservers.net:2083/cpsess2308026908/viewer/home%2fnxrecdfh%2fpublic_html%2fPracticeApp/git.png)
+
 ## Features
 - Supports auto-scrolling and manual scrolling.
 - Displays indicators (dots) for image navigation.
@@ -17,3 +20,5 @@ dependencies {
     implementation 'com.squareup.picasso:picasso:2.71828'
     implementation 'com.android.volley:volley:1.2.1'
 }
+
+
