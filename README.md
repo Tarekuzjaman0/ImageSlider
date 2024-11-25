@@ -1,6 +1,6 @@
 ## Advance Image Slider Source Code
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://s1fi.whiteservers.net:2083/cpsess2308026908/viewer/home%2fnxrecdfh%2fpublic_html%2fPracticeApp/git.png)
+
 
 
 ## Features
